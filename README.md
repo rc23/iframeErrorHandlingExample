@@ -1,2 +1,0 @@
-# iframeErrorHandlingExample
-Created with CodeSandbox
